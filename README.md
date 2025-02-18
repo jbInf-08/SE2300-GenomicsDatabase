@@ -53,9 +53,9 @@ Follow on-screen instructions to add, query, and visualize genomic data.
 
 Data Import from CSV
 
-To load a dataset from Kaggle:
+To load the dataset from Kaggle:
 
-Download a cancer genomic dataset (e.g., METABRIC) from Kaggle (https://www.kaggle.com/datasets/raghadalharbi/breast-cancer-gene-expression-profiles-metabric?resource=download)
+Download the cancer genomic dataset (e.g., METABRIC) from Kaggle (https://www.kaggle.com/datasets/raghadalharbi/breast-cancer-gene-expression-profiles-metabric?resource=download)
 
 Save it as METABRIC_RNA_Mutation.csv in the project directory.
 
